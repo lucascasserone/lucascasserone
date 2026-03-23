@@ -1,32 +1,70 @@
-<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lucas+Casserone....;Nice+to+meet+you!&size=30" size="30"></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+sou+o+Marco+Casserone+🚀;Data+Architect+%26+AI+Strategist;Transformando+dados+em+ROI...&font=Inter&size=32&center=true&width=600&color=0077B5" alt="Typing SVG" />
 
+  <p><b>Planning & Business Intelligence Leader | Data Architect | AI Strategist</b></p>
+</div>
 
+<div align="center">
+  <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="SEU_SITE_OU_PORTFOLIO"><img src="https://img.shields.io/badge/Casserone%20Strategy-121212?style=for-the-badge&logo=googlechrome&logoColor=white" alt="website" /></a>
+</div>
 
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucascasserone) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascasserone/)
+###
 
+<div align="center">
+  <p>Líder em Planning & BI com foco em <b>Data-Driven Decision Making</b> e arquiteturas de <b>Datalake/Lakehouse</b>. Expertise em orquestrar transformações analíticas com impacto direto: <b>+12 p.p. em precisão de forecast</b>, <b>-40% nos ciclos de análise</b> e suporte a mais de <b>$2B USD em receita gerenciada</b>.</p>
+</div>
 
-Planning & Business Intelligence leader with expertise in
-business acumen, data-driven decision making (enterprise
-level architectures like Datalake) and leading
-multidisciplinary teams. Solid background in Manufacturing,
-Financial Services, and Retail (On/Off), orchestrating
-analytics transformations that delivered direct impact: +12 p.p.
-forecast accuracy improvement, -40% in analysis cycles, and
-$2B+ USD in managed revenue. Expert in Processes,
-Projects, and Systems and Revenue and Digital
-Management, focused on strategic value delivery and
-continuous optimization.
+###
 
-## 🔥 Tech Stack 🔥
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Mongodb-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Restapi-4A4A4A?style=flat-square&logo=REST API&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white) ![](https://img.shields.io/badge/Aws-FF9900?style=flat-square&logo=AWS&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,go,supabase,postgres,aws,docker,linux,githubactions,nextjs,figma" height="50" alt="tech stack" />
+</div>
 
-## 💻 GitHub Stats 💻
+###
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucascasserone&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascasserone&theme=vue&hide_border=false" align="left" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascasserone&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="300">
+        <b>🛰️ Mission Control</b><br />
+        Agentes autônomos para gestão de workflows técnicos.
+      </td>
+      <td align="center" width="300">
+        <b>📊 Heuriskien Intelligence</b><br />
+        Diagnóstico de maturidade e ROI para adoção de IA.
+      </td>
+      <td align="center" width="300">
+        <b>📦 RetailOS</b><br />
+        DaaS para otimização de estoque e margens no varejo.
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 🚀 Top Repositories 🚀
-![](https://github-contributor-stats.vercel.app/api?username=lucascasserone&limit=5&theme=vue&combine_all_yearly_contributions=true)
-    
+###
 
-<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=vision-glow&show_icons=true&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=vision-glow&hide_border=false" height="170" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=vision-glow&layout=compact" height="165" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+###
+
+<div align="center">
+  <i>"Construindo arquiteturas de dados que escalam junto com o valor de negócio."</i>
+</div>
