@@ -22,8 +22,8 @@ continuous optimization.
 
 ## 💻 GitHub Stats 💻
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucascasserone&theme=vue&hide_border=false&include_all_commits=true&count_private=true" align="left" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascasserone&theme=vue&hide_border=false" align="left" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascasserone&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ## 🚀 Top Repositories 🚀
