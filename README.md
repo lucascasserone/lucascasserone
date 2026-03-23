@@ -1,56 +1,68 @@
-<h1 align="center">Marco Casserone | Data & AI Strategist 🚀</h1>
-
-###
-
-<p align="center">
-  Arquitetura de Dados moderna, inteligência artificial aplicada ao ROI de negócios e desenvolvimento de produtos SaaS B2B.
-</p>
-
-###
+<div align="center">
+  <h1>Marco Casserone 🚀</h1>
+  <p><b>Data Architect | AI Strategist | B2B Solutions Developer</b></p>
+  <p>Transformando dados complexos em vantagens competitivas através de arquiteturas escaláveis e IA aplicada ao ROI.</p>
+</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Casserone Strategy&logo=googlechrome&label=&color=121212&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="SEU_LINK_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="SEU_SITE_OU_PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Casserone%20Strategy&logo=googlechrome&label=&color=1a1a1a&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,go,ts,supabase,postgres,docker,aws,githubactions,nextjs,tailwind" height="50" alt="tech stack"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucascasserone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=lucascasserone&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <table>
+    <tr>
+      <td align="center" width="300">
+        <b>🛰️ Mission Control</b><br />
+        Ecossistema de agentes autônomos para gestão de workflows técnicos.
+      </td>
+      <td align="center" width="300">
+        <b>📊 Heuriskien Intelligence</b><br />
+        Plataforma diagnóstica de maturidade e ROI para adoção de IA.
+      </td>
+      <td align="center" width="300">
+        <b>📦 RetailOS</b><br />
+        DaaS focado em otimização de estoque e margens para o varejo.
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascasserone&layout=compact&theme=dracula" height="170" alt="top languages" />
+  <img src="https://github-profile-trophy.vercel.app?username=SEU_USUARIO_AQUI&theme=dracula&column=3&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO_AQUI&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=vision-glow" height="165" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=vision-glow" height="165" alt="stats graph"  />
+</div>
 
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+###
+
+<div align="center">
+  <i>"Focado em construir sistemas que não apenas funcionam, mas que escalam com o negócio."</i>
+</div>
