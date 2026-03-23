@@ -1,45 +1,56 @@
-# Olá, sou o Marco Casserone 🚀
+<h1 align="center">Marco Casserone | Data & AI Strategist 🚀</h1>
 
-### Data Architect | AI Strategist | B2B Solutions Developer
+###
 
-Transformo dados complexos em vantagens competitivas através de arquiteturas escaláveis e inteligência artificial aplicada ao ROI de negócios.
+<p align="center">
+  Arquitetura de Dados moderna, inteligência artificial aplicada ao ROI de negócios e desenvolvimento de produtos SaaS B2B.
+</p>
 
----
+###
 
-## 🛠️ Especialidades Técnicas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+</div>
 
-- **Data Engineering:** Implementação de Modern Data Stack, Data Lakehouses (Delta Lake, Iceberg) e processamento de dados distribuídos.
-- **AI & Automation:** Desenvolvimento de agentes autónomos, frameworks de diagnóstico de prontidão para IA e LLM Ops.
-- **Backend & Cloud:** Arquiteturas robustas com Go, Supabase (PostgreSQL) e infraestrutura como código.
-- **Product Strategy:** Desenho de soluções SaaS focadas em métricas de eficiência operacional e redução de riscos.
+###
 
----
+<div align="center">
+  <a href="SEU_LINK_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="SEU_SITE_OU_PORTFOLIO" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Casserone%20Strategy&logo=googlechrome&label=&color=1a1a1a&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo"  />
+  </a>
+</div>
 
-## 🚀 Projetos em Destaque
+###
 
-### 🛰️ Mission Control
-Um ecossistema monólito de múltiplos agentes autónomos para gestão de workflows e geração de conteúdo técnico, integrando módulos de automação de tarefas e análise de dados.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lucascasserone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=lucascasserone&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 📊 Heuriskien Intelligence
-Plataforma de consultoria diagnóstica que avalia a maturidade de IA em empresas, gerando relatórios executivos detalhados com foco em viabilidade e retorno sobre investimento.
+###
 
-### 📦 RetailOS
-Solução de Data-as-a-Service para o setor de retalho, focada na eliminação de rutura de stock e otimização de margens operacionais.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascasserone&layout=compact&theme=dracula" height="170" alt="top languages" />
+</div>
 
----
+###
 
-## 📈 Atividade no GitHub
 
-![As minhas linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=vision-glow)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=vision-glow)
-
----
-
-## 📫 Conecte-se Comigo
-
-- 💼 [LinkedIn](SEU_LINK_LINKEDIN)
-- 🌐 [Casserone Strategy](SEU_SITE_OU_PORTFOLIO)
-- ✉️ [E-mail](SEU_EMAIL)
-
----
-*"Focado em construir sistemas que não apenas funcionam, mas que escalam com o negócio."*
