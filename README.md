@@ -30,17 +30,12 @@ continuous optimization.
 
 ###
 
-
-## 🚀 Top Repositories 🚀
-![](https://github-contributor-stats.vercel.app/api?username=lucascasserone&limit=5&theme=vue&combine_all_yearly_contributions=true)
-    
-
-<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
-
-
-<p align="left">Hello World!!</p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascasserone.lucascasserone&"  />
+</div>
 
 ###
+
 
 <br clear="both">
 
@@ -56,10 +51,13 @@ continuous optimization.
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascasserone.lucascasserone&"  />
-</div>
+
+## 🚀 Top Repositories 🚀
+![](https://github-contributor-stats.vercel.app/api?username=lucascasserone&limit=5&theme=vue&combine_all_yearly_contributions=true)
+    
+
+<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
+
 
 ###
-
 
