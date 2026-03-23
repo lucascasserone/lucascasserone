@@ -30,10 +30,6 @@ continuous optimization.
 
 ###
 
-A white circle with a dark file icon outlined in the center
-Profile Readme Generator
-Developed and maintained by Mauro de Souza
-
 
 ## 🚀 Top Repositories 🚀
 ![](https://github-contributor-stats.vercel.app/api?username=lucascasserone&limit=5&theme=vue&combine_all_yearly_contributions=true)
