@@ -1,5 +1,12 @@
-<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lucas+Casserone....;Nice+to+meet+you!&size=30" size="30"></h1>
 
+###
+
+<img src="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lucas+Casserone....;Nice+to+meet+you!&size=30" size="30"></h1>
 
 
 [![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lucascasserone) [![linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascasserone/)
@@ -44,12 +51,6 @@ continuous optimization.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 ## 🚀 Top Repositories 🚀
