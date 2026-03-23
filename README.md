@@ -1,15 +1,3 @@
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <h1><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Lucas+Casserone....;Nice+to+meet+you!&size=30" size="30"></h1>
 
 
@@ -42,18 +30,9 @@ continuous optimization.
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucascasserone/lucascasserone/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucascasserone.lucascasserone&"  />
-</div>
-
-###
 A white circle with a dark file icon outlined in the center
 Profile Readme Generator
 Developed and maintained by Mauro de Souza
-
-
 
 
 ## 🚀 Top Repositories 🚀
